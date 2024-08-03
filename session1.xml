@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<students>
+    <std1>
+        <name>Zain</name>
+        <age>19</age>
+        <mobile>03232556565</mobile>
+        <email>zain@gamil.com</email>
+    </std1>
+    <std2>
+        <name>Ammar</name>
+        <age>17</age>
+        <mobile>41123132132</mobile>
+        <email>ammar@gamil.com</email>
+    </std2>
+</students>
