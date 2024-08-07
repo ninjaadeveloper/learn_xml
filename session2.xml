@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+
+<Employee>
+
+    <Emp xmlns:emp1="www.emp1.com">
+        <emp1:name>Asad</emp1:name>
+        <emp1:dept>Accounts</emp1:dept>
+    </Emp>
+    <Emp xmlns:emp2="www.emp2.com">
+        <emp2:name>Sana</emp2:name>
+        <emp2:dept>HR</emp2:dept>
+    </Emp>
+    <Emp xmlns:emp3="www.emp3.com">
+        <emp3:name>Umair</emp3:name>
+        <emp3:dept>Admin</emp3:dept>
+    </Emp>
+
+
+</Employee>

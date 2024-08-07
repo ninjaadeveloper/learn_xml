@@ -1,0 +1,5 @@
+download and install xampp
+
+1) create a folder / file of xml.
+2) run this file in browser through server(xampp).
+3) send the screenshot on whatsapp.
