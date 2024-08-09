@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE Student SYSTEM "structure.dtd">
+
+<!-- Internal -->
+<!-- <!DOCTYPE Student [
+    <!ELEMENT Student (name,course,email)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT course (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+]> -->
+
+
+<Student>
+    <name>Ali</name>
+    <course>XML</course>
+    <email>abc@gmail.com</email>
+</Student>
